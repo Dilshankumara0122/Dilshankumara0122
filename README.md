@@ -27,6 +27,15 @@
 - ⚡ Fun fact **Call me as KD**
 
 ---
+
+
+
+
+[![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612&theme=dracula)](https://github.com/avneesh0612)
+
+[![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh0612&theme=dracula&layout=compact)](https://github.com/avneesh0612)
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kavindu dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu dilshan" height="30" width="40" /></a>
