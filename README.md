@@ -8,6 +8,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshankumara0122&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankumara0122" /> </p>
 
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
 ### My topic
 ---
 
