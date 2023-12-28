@@ -1,3 +1,8 @@
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px ></picture> **About me**
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kavindu Dilshan</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
