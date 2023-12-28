@@ -1,4 +1,4 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px ></picture> **About me**
+## <p align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px ></picture> **About me**</p>
 
 
 
@@ -16,21 +16,17 @@
 
 ### My topic
 ---
+- 🌱 I’m currently learning **ITP with MERN**
 
-- 🔭 I’m currently working on **Test**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **IWT**
-
-- 🤝 I’m looking for help with **ITP**
-
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **dilarools@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
 
-- ⚡ Fun fact **Call me KD**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kavindu dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu dilshan" height="30" width="40" /></a>
